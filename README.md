@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sb21k
 - 👀 I’m interested in Learning c++
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C and C++ Through CS50.
 - 📫 How to reach me, not yet there....
 
 <!---
